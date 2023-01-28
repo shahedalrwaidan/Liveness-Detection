@@ -3,7 +3,7 @@
     
     
     
-    <img src="liveness_detection_opencv_compare.jpg" alt="Example of Labeling the data "  title="Example  data " />
+    <img src="liveness_detection_opencv_compare.jpg" alt="Example of Liveness detection "  title="Liveness detection " />
 
 ## Result 
   
