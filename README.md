@@ -5,3 +5,6 @@
     
     <img src="liveness_detection_opencv_compare.jpg" alt="Example of Labeling the data "  title="Example  data " />
 
+## Result 
+  
+   In this project ,We created a face liveness detection solution . To capture a face from a video, we used a face landmark algorithm. This has fed a different cnn model archiculture (CNN,VGG16,Resnet50 ). The obtained results show that ResNet50 performs better than other models in our dataset. However, there is a 2-5 percent chance of error in real life.
